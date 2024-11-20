@@ -12,7 +12,8 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // \App\Models\User::factory(10)->create();
+       $this->call(UserTableSeeder::class);
+        \App\Models\User::factory(5)->create(); //5 fake data will be created
 
         // \App\Models\User::factory()->create([
         //     'name' => 'Test User',
