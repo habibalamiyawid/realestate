@@ -17,23 +17,23 @@
   <!-- End fonts -->
 
   <!-- Core CSS -->
-  <link rel="stylesheet" href="{{ asset('assets/vendors/core/core.css') }}">
+  <link rel="stylesheet" href="{{ asset('backend/assets/vendors/core/core.css') }}">
   <!-- End Core CSS -->
 
   <!-- Plugin CSS for this page -->
-  <link rel="stylesheet" href="{{ asset('assets/vendors/flatpickr/flatpickr.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('backend/assets/vendors/flatpickr/flatpickr.min.css') }}">
   <!-- End Plugin CSS -->
 
   <!-- Injected CSS -->
-  <link rel="stylesheet" href="{{ asset('assets/fonts/feather-font/css/iconfont.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/vendors/flag-icon-css/css/flag-icon.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('backend/assets/fonts/feather-font/css/iconfont.css') }}">
+  <link rel="stylesheet" href="{{ asset('backend/assets/vendors/flag-icon-css/css/flag-icon.min.css') }}">
   <!-- End Injected CSS -->
 
   <!-- Layout styles -->
-  <link rel="stylesheet" href="{{ asset('assets/css/demo2/style.css') }}">
+  <link rel="stylesheet" href="{{ asset('backend/assets/css/demo2/style.css') }}">
   <!-- End Layout styles -->
 
-  <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" />
+  <link rel="shortcut icon" href="{{ asset('backend/assets/images/favicon.png') }}" />
 </head>
 <body>
   <div class="main-wrapper">
@@ -56,21 +56,21 @@
   </div>
 
   <!-- Core JS -->
-  <script src="{{ asset('assets/vendors/core/core.js') }}"></script>
+  <script src="{{ asset('backend/assets/vendors/core/core.js') }}"></script>
   <!-- End Core JS -->
 
   <!-- Plugin JS for this page -->
-  <script src="{{ asset('assets/vendors/flatpickr/flatpickr.min.js') }}"></script>
-  <script src="{{ asset('assets/vendors/apexcharts/apexcharts.min.js') }}"></script>
+  <script src="{{ asset('backend/assets/vendors/flatpickr/flatpickr.min.js') }}"></script>
+  <script src="{{ asset('backend/assets/vendors/apexcharts/apexcharts.min.js') }}"></script>
   <!-- End Plugin JS -->
 
   <!-- Injected JS -->
-  <script src="{{ asset('assets/vendors/feather-icons/feather.min.js') }}"></script>
-  <script src="{{ asset('assets/js/template.js') }}"></script>
+  <script src="{{ asset('backend/assets/vendors/feather-icons/feather.min.js') }}"></script>
+  <script src="{{ asset('backend/assets/js/template.js') }}"></script>
   <!-- End Injected JS -->
 
   <!-- Custom JS for this page -->
-  <script src="{{ asset('assets/js/dashboard-dark.js') }}"></script>
+  <script src="{{ asset('backend/assets/js/dashboard-dark.js') }}"></script>
   <!-- End Custom JS -->
 
 </body>
