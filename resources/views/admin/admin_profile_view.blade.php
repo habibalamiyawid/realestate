@@ -11,10 +11,10 @@
                     <img src="https://via.placeholder.com/1560x370"class="rounded-top" alt="profile cover">
                   </figure>
                   <div class="d-flex justify-content-between align-items-center position-absolute top-90 w-100 px-2 px-md-4 mt-n4">
-                    <div>
+                  <div>
                       <img class="wd-70 rounded-circle" src="https://via.placeholder.com/100x100" alt="profile">
                       <span class="h4 ms-3 text-dark">Amiah Burton</span>
-                    </div>
+                  </div>
                     <div class="d-none d-md-block">
                       <button class="btn btn-primary btn-icon-text">
                         <i data-feather="edit" class="btn-icon-prepend"></i> Edit profile
@@ -32,6 +32,10 @@
                       <i class="me-1 icon-md" data-feather="user"></i>
                       <a class="pt-1px d-none d-md-block text-body" href="#">About</a>
                     </li>
+                    <div>
+                      <img class="wd-70 rounded-circle" src="https://via.placeholder.com/100x100" alt="profile">
+                      <span class="h4 ms-3 text-dark">Amiah Burton</span>
+                  </div>
                     <li class="ms-3 ps-3 border-start d-flex align-items-center">
                       <i class="me-1 icon-md" data-feather="users"></i>
                       <a class="pt-1px d-none d-md-block text-body" href="#">Friends <span class="text-muted tx-12">3,765</span></a>
